@@ -1,7 +1,8 @@
 body{
   font-family: Helvetica;
   font-weight: 600;
-  margin: auto;
+  margin-left:25%;
+  padding-right:50px;
   width:70%;
   font-size: 32px;
   line-height: 1.3;
