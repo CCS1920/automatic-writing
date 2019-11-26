@@ -20,11 +20,16 @@ h2{
 }
 
 ul{
-  list-style-type: square;
+  list-style-type: none;
 }
 
 a {
   color: red;
+  text-decoration: none;
+}
+
+ul a{
+  color: white;
   text-decoration: none;
 }
 
@@ -33,5 +38,5 @@ a:hover{
 }
 
 h3{
-  
+
 }
