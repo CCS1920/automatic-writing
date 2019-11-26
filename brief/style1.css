@@ -1,6 +1,6 @@
 body{
   font-family: Helvetica;
-  font-weight: 200;
+  font-weight: lighter;
   margin: auto;
   width:70%;
   font-size: 18px;
@@ -9,6 +9,6 @@ body{
 }
 
 h1{
-  font-size: 2em;
-  
+  font-size: 68px;
+
 }
