@@ -1,5 +1,10 @@
+
+
+
 body{
-  width:960px;
-  margins:auto;
-  
+  font-family: Helvetica;
+  margin: auto;
+  width:70%;
+  font-size: 18px;
+  line-height: 1.5;
 }
