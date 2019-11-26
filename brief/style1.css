@@ -1,17 +1,20 @@
 body{
   font-family: Helvetica;
-  font-weight: lighter;
+  font-weight: 600;
   margin: auto;
   width:70%;
-  font-size: 18px;
-  line-height: 1.5;
+  font-size: 36px;
+  line-height: 1.4;
   background-color: blue;
 }
 
-h1{
+marquee{
   font-size: 68px;
 }
 
 h2{
-  font-size: 36px;
+  font-size: 48px;
+  margin-top:-25px;
+  color:white;
+
 }
