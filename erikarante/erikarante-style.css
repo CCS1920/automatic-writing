@@ -1,9 +1,5 @@
 body{
-  @font-face {
- font-family: "Rantular";
- src: url("erikarante/Rantular-Mono.woff2") format("woff2"),
-        url("erikarante/Rantular-Mono.woff") format("woff");
-}
+  font-family: Helvetica;
   font-weight: 600;
   margin-left:25%;
   padding-right:50px;
@@ -19,7 +15,7 @@ marquee{
 
 h2{
   font-size: 48px;
-  color:blue;
+  color:black;
 
 }
 h3{
