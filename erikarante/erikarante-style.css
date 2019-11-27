@@ -1,8 +1,8 @@
 body{
   @font-face {
- font-family: "Rantular-Mono";
+ font-family: "Rantular";
  src: url("erikarante/Rantular-Mono.woff2") format("woff2"),
-        url("/fonts/Rantular-Mono.woff") format("woff");
+        url("erikarante/Rantular-Mono.woff") format("woff");
 }
   font-weight: 600;
   margin-left:25%;
