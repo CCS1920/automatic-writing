@@ -1,12 +1,16 @@
 body{
-  font-family: Helvetica;
+  @font-face {
+ font-family: "Rantular-Mono";
+ src: url("erikarante/Rantular-Mono.woff2") format("woff2"),
+        url("/fonts/Rantular-Mono.woff") format("woff");
+}
   font-weight: 600;
   margin-left:25%;
   padding-right:50px;
   width:70%;
-  font-size: 32px;
-  line-height: 1.3;
-  background-color: blue;
+  font-size: 18px;
+  line-height: 1;
+  background-color: white;
 }
 
 marquee{
@@ -15,7 +19,12 @@ marquee{
 
 h2{
   font-size: 48px;
-  color:white;
+  color:blue;
+
+}
+h3{
+  font-size: 32px;
+  color:black;
 
 }
 
@@ -34,9 +43,5 @@ a {
 } */
 
 a:hover{
-  text-decoration: none;
-}
-
-h3{
-
+  text-decoration: underline;
 }
