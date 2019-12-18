@@ -1,0 +1,14 @@
+p {
+  background-color: red;
+  color: blue;
+  font-size: 50px;
+}
+
+img {
+  opacity: 0.5;
+}
+
+.middle-par {
+  background-color: green;
+  font-size: 30px;
+}
