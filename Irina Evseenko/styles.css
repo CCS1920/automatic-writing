@@ -1,0 +1,66 @@
+html {
+  position: relative;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f2/20-gon-dissection-random.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+body {
+  background-color: red;
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+}
+
+main {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.middle-par {
+  background-color: rgb(255, 0, 255);
+}
+
+.column {
+  min-width: 100px;
+  width: 100px;
+}
+
+.column p {
+  font-size: 12px;
+}
+
+.first-par {
+  margin-top: 216px;
+}
+
+.image-box {
+  position: absolute;
+  width: 300px;
+}
+
+.image-box-1 {
+  left: 0;
+  top: 0;
+}
+
+.image-box-2 {
+  left: 0;
+  bottom: 0;
+}
+
+.image-box-3 {
+  right: 0;
+  bottom: 0;
+}
+
+.image-box-4 {
+  right: 0;
+  top: 0;
+}
+
+.caption {
+  color: cyan;
+  font-size: 10px;
+}
