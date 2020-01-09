@@ -1,0 +1,22 @@
+body {
+  color: blue;
+  max-width: 800px;
+  margin: 0 auto 0 auto;
+
+  font-size: 40px;
+  line-height: 44px;
+
+  padding-bottom: 1400px;
+}
+
+h1 {
+  color: red;
+}
+
+h3 {
+  color: green;
+}
+
+sup {
+  color: red;
+}
