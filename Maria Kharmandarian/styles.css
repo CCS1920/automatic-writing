@@ -1,5 +1,8 @@
 body {
   background-color: green;
+  max-width: 800px;
+  margin: 0 auto;
   color: white;
   font-size: 25px;
+  display: flex;
 }
