@@ -1,8 +1,11 @@
 body {
+  font-family: Helvetica;
+  font-weight: normal;
   background-color: green;
-  max-width: 800px;
-  margin: 0 auto;
+  margin-left: 17%;
+  padding-right: 100px;
+  width: 35%;
   color: white;
   font-size: 25px;
-  display: flex;
+
 }
