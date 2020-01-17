@@ -1,0 +1,16 @@
+body{
+  font-family: Helvetica;
+  font-weight: normal;
+  margin-left:17%;
+  padding-right:100px;
+  width:35%;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: pink;
+}
+
+  h1 {
+    background-color: yellow;
+    colour: pink;
+    font-size: 25px;
+  }
