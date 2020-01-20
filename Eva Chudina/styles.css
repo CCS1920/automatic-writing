@@ -11,18 +11,18 @@ body {
 }
 
 marquee{
-  font-size: 68px;
+  font-size: 30px;
 }
 
 h2{
-  font-size: 48px;
-  color:black;
+  font-size: 30px;
+  color:white;
 
 }
 
 h3{
-  font-size: 48px;
-  color:black;
+  font-size: 30px;
+  color:white;
 
 }
 ul{
@@ -30,7 +30,7 @@ ul{
 }
 
 a {
-  font-size: 68px;
+  font-size: 30px;
   color: white;
   text-decoration: none;
 }
