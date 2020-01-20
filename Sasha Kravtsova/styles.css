@@ -14,7 +14,7 @@ body {
   background-color: black;
   color: white;
 
-  padding-bottom: 1000px;
+  /* /padding-bottom: 1000px; */ */
 }
 
 marquee {
@@ -22,7 +22,7 @@ marquee {
 }
 
 h2 {
-  font-size: 48px;
+  font-size: 40px;
   color:white;
 }
 
@@ -69,8 +69,12 @@ h2 + p {
 
 h1 {
   /* border: 3px solid pink; */
-  background-color: pink;
-  color: cyan;
+  background-color: white;
+  color: black;
+}
+
+h3 {font-size: 30px;
+color: white;
 }
 
 /* sup a {
