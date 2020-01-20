@@ -1,40 +1,16 @@
 body {
   font-family: Helvetica;
   font-weight: normal;
-  background-color: white;
-  margin-left: 17%;
-  padding-right: 100px;
-  width: 45%;
-  color: white;
-  font-size: 20px;
-
+  font-size: 18px;
 }
-
-marquee{
+h1{
   font-size: 30px;
 }
-
-h2{
+h2
+{
   font-size: 30px;
-  color:white;
-
 }
-
-h3{
+h3
+{
   font-size: 30px;
-  color:white;
-
-}
-ul{
-  list-style-type: square;
-}
-
-a {
-  font-size: 30px;
-  color: white;
-  text-decoration: none;
-}
-
-a:hover{
-  text-decoration: underline;
 }
