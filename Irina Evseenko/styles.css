@@ -1,21 +1,27 @@
 html {
   position: relative;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f2/20-gon-dissection-random.svg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background-image: url("https://www.movingai.com/benchmarks/mapf/random-32-32-20.svg");
+  background-repeat:repeat;
+  background-size:cover;
+  background-position:center;
 }
 
 body {
-  background-color: red;
-  max-width: 800px;
+  background-color: black;
+  color: white;
+  /* max-width: 800px; */
+  width: 810px;
   margin: 0 auto;
   display: flex;
+  font-family:monospace;
+  font-size:17pt;
 }
 
 main {
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 20px;
 }
 
 .middle-par {
@@ -32,7 +38,7 @@ main {
 }
 
 .first-par {
-  margin-top: 216px;
+  margin-top: 275px;
 }
 
 .image-box {
