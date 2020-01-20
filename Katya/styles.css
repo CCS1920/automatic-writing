@@ -17,12 +17,12 @@ body{
 }
 
   h1{
-    color: white;
     font-size: 35px;
     padding-right: 200px;
     padding-left: 200px;
     padding-top: 20px;
     padding-bottom: 20px;
+    color: white;
     text-transform: uppercase
   }
 
