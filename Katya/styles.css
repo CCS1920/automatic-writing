@@ -17,8 +17,8 @@ body{
 }
 
   h1 {
-    background-color: yellow;
-    color: blue;
+    background-color: black;
+    color: white;
     font-size: 25px;
     padding-right: 200px;
     padding-left: 200px;
@@ -30,11 +30,11 @@ body{
   h2 {
     font-size: 18px;
     font-weight: bold;
-    color: yellow;
+    color: white;
   }
 
   y {
-    color: yellow;
+    color: white;
   }
 
   p {
