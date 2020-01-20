@@ -1,7 +1,7 @@
 body {
   font-family: Helvetica;
   font-weight: normal;
-  background-color: white;
+  background-color: black;
   margin-left: 17%;
   padding-right: 100px;
   width: 45%;
@@ -9,32 +9,22 @@ body {
   font-size: 20px;
 
 }
+h1{
+  line-height: 1.1;
+  font-size: 40px;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color:white;
+}
 
-marquee{
+h2 {
   font-size: 30px;
+  color: white;
 }
 
-h2{
-  font-size: 30px;
-  color:black;
-
-}
-
-h3{
-  font-size: 30px;
-  color:black;
-
-}
-ul{
-  list-style-type: square;
-}
-
-a {
-  font-size: 30px;
-  color: black;
-  text-decoration: none;
-}
-
-a:hover{
-  text-decoration: underline;
+h3 {
+font-size: 30px;
+color: white;
 }
