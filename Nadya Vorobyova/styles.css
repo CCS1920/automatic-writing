@@ -1,0 +1,30 @@
+body{
+  font-family: Helvetica;
+  font-weight: normal;
+  margin-left:17%;
+  padding-right:100px;
+  width:35%;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: black;
+  color: white;
+}
+
+  h1 {
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-transform: uppercase
+  }
+  .caption {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 10px;
+    margin-left: 250px;
+  }
