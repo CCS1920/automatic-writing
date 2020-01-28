@@ -1,7 +1,7 @@
 html {
-  position: relative;
-  background-image: url("https://www.movingai.com/benchmarks/mapf/random-32-32-20.svg");
-  background-repeat:repeat;
+  position:relative;
+  background-image: url("https://www.movingai.com/benchmarks/mapf/random-64-64-20.svg");
+  background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
 }
@@ -67,6 +67,6 @@ main {
 }
 
 .caption {
-  color: cyan;
-  font-size: 10px;
+  color: white;
+  font-size: 11px;
 }
